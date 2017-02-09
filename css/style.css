@@ -5,19 +5,19 @@ body{margin:inherit;
 
 h1 {background:red;
     padding:10px;
-    border:black;
+    border:10px solid black;
 }
 
 p {background:blue;
     color:white;
     padding:10px;
-    border:black;
+    border:10 px solid black;
 }
 
 code {background:white;
     color:black;
     padding:5px;
-    border:1px;   
+    border:10px solid black;   
 }
 
 h2 {content:inherit;
